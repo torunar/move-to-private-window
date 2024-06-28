@@ -1,0 +1,9 @@
+{
+  "extensionDescription": {
+    "message": "Adds a context menu entry to move a tab to Private Window.",
+    "description": ""
+  },
+  "mtpwMoveToPrivateWindow": {
+    "message": "Move to Private Window"
+  }
+}
