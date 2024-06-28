@@ -8,7 +8,7 @@ Get it from Firefox add-ons: [https://addons.mozilla.org/en-US/firefox/addon/mov
 
 ## Getting it working
 
-This add-on requires permissions to work Private Windows.
+This add-on requires permissions to work in Private Windows.
 You will be prompted to enable it during installation: 
 
 ![image](https://github.com/torunar/move-to-private-window/assets/1062217/064cf567-c02d-4496-aa80-52d5fb104518)
